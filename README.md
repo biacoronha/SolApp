@@ -1,6 +1,10 @@
-SolApp
+# SolApp
+
+## Introduction
 
 This project was created using the guidance of google's codelab for Architecture Components. First, the base code was downloaded and then the steps were followed until the end.
+
+## Steps Needed
 
 To run and start to work on this code was necessary the following steps:
  - Update the Android Gradle plugin to version 3.2.1
@@ -8,7 +12,11 @@ To run and start to work on this code was necessary the following steps:
  - Change the support version from "26.1.0" to "26.1.0"
  - Update Build Tools and sync project
  
+ ## Observation
+ 
 It's also important to note that this project uses a fake weather server for teaching reasons, however, I chose to keep it this way so that it could be shown the different possibilities of weather. (If a real one was used, the days would probably have a similar weather and it would not be possible to see the variety of descriptions and icons). 
+
+## Conclusion
 
 Using the code labs made possible for me to learn a lot more about architecture components and I look forward to continue to develop android applications.
 
