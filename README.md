@@ -10,3 +10,5 @@ To run and start to work on this code was necessary the following steps:
  
 It's also important to note that this project uses a fake weather server for teaching reasons, however, I chose to keep it this way so that it could be shown the different possibilities of weather. (If a real one was used, the days would probably have a similar weather and it would not be possible to see the variety of descriptions and icons). 
 
+Using the code labs made possible for me to learn a lot more about architecture components and I look forward to continue to develop android applications.
+
